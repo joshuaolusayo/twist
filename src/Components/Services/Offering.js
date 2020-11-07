@@ -7,7 +7,7 @@ const Offering = () => {
 			<h2 className="text-light font-weight-bold px-3 text-bg px-lg-5 mb-5">Business Offerings</h2>
 			<div className="row-grid px-3 px-lg-5 w-100">
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/01.png" alt="UX Audit" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/01.png" loading="lazy" alt="UX Audit" />
 					<div className="p-2 p-lg-4">
 						<h3 className="font-weight-bold text-center text-md-left text-warning">UX Audit</h3>
 						<p>
@@ -18,7 +18,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/02.png" alt="UX Research" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/02.png" loading="lazy" alt="UX Research" />
 					<div className="p-2 p-lg-4 info">
 						<h3 className="font-weight-bold text-center text-md-left text-success">UX Research</h3>
 						<p>
@@ -29,7 +29,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/03.png" alt="Visual Facelift" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/03.png" loading="lazy" alt="Visual Facelift" />
 					<div className="p-2 p-lg-4">
 						<h3 className="font-weight-bold text-center text-md-left text-warning">Visual Facelift</h3>
 						<p>
@@ -40,7 +40,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/04.png" alt="UX Research" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/04.png" loading="lazy" alt="UX Research" />
 					<div className="p-2 p-lg-4 info">
 						<h3 className="font-weight-bold text-center text-md-left text-info">Heuristic Evaluation</h3>
 						<p>
@@ -52,7 +52,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/05.png" alt="Communication Strategy" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/05.png" loading="lazy" alt="Communication Strategy" />
 					<div className="p-2 p-lg-4">
 						<h3 className="font-weight-bold text-center text-md-left text-pry">Communication Strategy</h3>
 						<p>
@@ -63,7 +63,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/06.png" alt="Usability Testing" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/06.png" loading="lazy" alt="Usability Testing" />
 					<div className="p-2 p-lg-4 info">
 						<h3 className="font-weight-bold text-center text-md-left text-success">Usability Testing</h3>
 						<p>
@@ -74,7 +74,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/07.png" alt="Service Design" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/07.png" loading="lazy" alt="Service Design" />
 					<div className="p-2 p-lg-4">
 						<h3 className="font-weight-bold text-center text-md-left text-success">Service Design</h3>
 						<p>
@@ -85,7 +85,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/08.png" alt="Intranet Interfaces" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/08.png" loading="lazy" alt="Intranet Interfaces" />
 					<div className="p-2 p-lg-4 info">
 						<h3 className="font-weight-bold text-center text-md-left text-info">Intranet Interfaces</h3>
 						<p>
@@ -96,7 +96,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-black border-dotted mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/09.png" alt="Connect" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/09.png" loading="lazy" alt="Connect" />
 					<div className="p-2 p-lg-4">
 						<p className="text-white">Is there anything else we can help you with?</p>
 						<Link to="/">
@@ -105,7 +105,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/10.png" alt="UX for SasS Products" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/10.png" loading="lazy" alt="UX for SasS Products" />
 					<div className="p-2 p-lg-4 info">
 						<h3 className="font-weight-bold text-center text-md-left text-success">UX for SaaS Products</h3>
 						<p>
@@ -116,7 +116,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/11.png" alt="UX for Enterprise Apps" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/11.png" loading="lazy" alt="UX for Enterprise Apps" />
 					<div className="p-2 p-lg-4 info">
 						<h3 className="font-weight-bold text-center text-md-left text-info">UX for Enterprise Apps</h3>
 						<p>
@@ -127,7 +127,7 @@ const Offering = () => {
 					</div>
 				</div>
 				<div className="bg-white mb-3 d-flex flex-column">
-					<img className="img-fluid mx-auto" src="/images/services/offering/02.png" alt="UX Research" />
+					<img className="img-fluid mx-auto" src="/images/services/offering/02.png" loading="lazy" alt="UX Research" />
 					<div className="p-2 p-lg-4 info">
 						<h3 className="font-weight-bold text-center text-md-left text-pry">UX for Mobile & Web Apps</h3>
 						<p>

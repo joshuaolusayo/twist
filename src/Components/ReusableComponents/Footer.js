@@ -7,7 +7,7 @@ const Footer = ({ state }) => {
 			<div className="row justify-content-between">
 				<div className="col-md-4 mt-5 mt-md-n3 d-flex flex-column justify-content-between align-items-between">
 					<Link className="d-block mx-auto" to="#">
-						<img className="img-fluid" src="/images/logo.png" alt="Logo" />
+						<img className="img-fluid" src="/images/logo.png" loading="lazy" alt="Logo" />
 					</Link>
 					<div className="social-links d-flex justify-content-between pt-4 pt-md-0 col-sm-8 col-md-auto mx-auto w-100">
 						<img src="/images/icons/linkedin.png" alt="LinkedIn" />

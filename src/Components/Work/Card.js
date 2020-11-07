@@ -8,7 +8,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/01.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/01.jpg" alt="Card cap" />
 							<div className="overlay bg-darkblue px-2 text-light">
 								<p>
 									<span className="font-weight-bold">Str8bat</span> is a mobile app to track a circketer's batting
@@ -25,7 +25,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/02.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/02.jpg" alt="Card cap" />
 							<div className="overlay bg-lightblue px-2 text-light">
 								<p>
 									<span className="font-weight-bold">Maya</span> is a Saas product for banks to leverage insights from
@@ -42,7 +42,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/03.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/03.jpg" alt="Card cap" />
 							<div className="overlay bg-yellow px-2 text-light">
 								<p>
 									<span className="font-weight-bold">The Pitch Invasion</span> project is a corporate wesite for the
@@ -59,14 +59,14 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/04.png" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/04.png" alt="Card cap" />
 						</div>
 					</Link>
 				</div>
 				<div className="col-md-8 col-lg-6 mb-4 mb-md-5 px-sm-3">
 					<div className="card border-0">
 						<div className="picture px-md-4">
-							<img className="card-img-top card-img img-fluid" src="/images/work/cards/02.png" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img img-fluid" src="/images/work/cards/02.png" alt="Card cap" />
 						</div>
 						<div className="card-body p-0 text-black text-center">
 							<h4 className="card-title font-weight-bold mb-0 mt-2">What makes great Mobile App UX</h4>
@@ -79,7 +79,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/05.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/05.jpg" alt="Card cap" />
 							<div className="overlay bg-darkbrown px-2 text-light">
 								<p>
 									<span className="font-weight-bold">Scoryboard</span> is a web product that reports real time cricket
@@ -96,7 +96,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/06.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/06.jpg" alt="Card cap" />
 							<div className="overlay bg-lightblue px-2 text-light">
 								<p>
 									The<span className="font-weight-bold">marketsN</span> corporate website is a showcase for the marketsN
@@ -113,7 +113,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/07.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/07.jpg" alt="Card cap" />
 							<div className="overlay bg-brown px-2 text-light">
 								<p>
 									The<span className="font-weight-bold">Core Project</span> design allows educators to conceptualize and
@@ -130,7 +130,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/08.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/08.jpg" alt="Card cap" />
 							<div className="overlay bg-blue px-2 text-light">
 								<p>
 									Table App design for installation of wireless lighting with{" "}
@@ -147,7 +147,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/09.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/09.jpg" alt="Card cap" />
 							<div className="overlay bg-green px-2 text-light">
 								<p>
 									The <span className="font-weight-bold">Immersion UX</span> project is a corporate website for the South
@@ -164,7 +164,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/10.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/10.jpg" alt="Card cap" />
 							<div className="overlay bg-orange px-2 text-light">
 								<p>
 									Communication strategy for <span className="font-weight-bold">Ferroli</span> to launch their products in
@@ -181,7 +181,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/11.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/11.jpg" alt="Card cap" />
 							<div className="overlay bg-sec px-2 text-light">
 								<p>
 									Communication strategy for <span className="font-weight-bold">Gram Vikas</span> to target new-age
@@ -198,7 +198,7 @@ const Card = () => {
 				<div className="col-md-8 col-lg-6 mb-4 mb-md-5 px-sm-3">
 					<div className="card border-0">
 						<div className="picture px-md-4">
-							<img className="card-img-top card-img img-fluid" src="/images/work/cards/12.png" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img img-fluid" src="/images/work/cards/12.png" alt="Card cap" />
 						</div>
 						<div className="card-body p-0 text-black text-center">
 							<h4 className="card-title font-weight-bold mb-0 mt-2">What makes great Mobile App UX</h4>
@@ -211,7 +211,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/13.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/13.jpg" alt="Card cap" />
 							<div className="overlay bg-lightcol px-2 text-light">
 								<p>
 									<span className="font-weight-bold">Fertility Tracker</span> is a mobile application designed to help a
@@ -228,7 +228,7 @@ const Card = () => {
 				<div className="col-md-8 col-lg-6 mb-4 mb-md-5 px-sm-3">
 					<div className="card border-0">
 						<div className="picture px-md-4">
-							<img className="card-img-top card-img img-fluid" src="/images/work/cards/14.png" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img img-fluid" src="/images/work/cards/14.png" alt="Card cap" />
 						</div>
 						<div className="card-body p-0 text-black text-center">
 							<h4 className="card-title font-weight-bold mb-0 mt-2">What makes great Mobile App UX</h4>
@@ -241,7 +241,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/15.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/15.jpg" alt="Card cap" />
 							<div className="overlay bg-darkcol px-2 text-light">
 								<p>
 									<span className="font-weight-bold">marketsN</span> is an enterprise app that integrates BlockChain
@@ -258,7 +258,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/16.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/16.jpg" alt="Card cap" />
 							<div className="overlay bg-faintcol px-2 text-light">
 								<p>
 									The <span className="font-weight-bold">Koinearth</span> corporate website is a marketing channel for the
@@ -275,7 +275,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<Link to="/work" className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/17.jpg" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/17.jpg" alt="Card cap" />
 							<div className="overlay bg-darkblue px-2 text-light">
 								<p>
 									The <span className="font-weight-bold">Core Econ</span> website is designed to promote the digital
@@ -313,7 +313,7 @@ const Card = () => {
 				<div className="col-sm-6 col-md-4 col-lg-3 mb-4 mb-md-5 px-sm-3">
 					<div className="card border-0">
 						<div className="picture">
-							<img className="card-img-top card-img" src="/images/work/cards/18.png" alt="Card cap" />
+							<img loading="lazy" className="card-img-top card-img" src="/images/work/cards/18.png" alt="Card cap" />
 						</div>
 						<div className="card-body p-0 text-black text-center">
 							<h4 className="card-title font-weight-bold mb-0 mt-2">How communication comes alive on a website</h4>

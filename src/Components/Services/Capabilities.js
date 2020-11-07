@@ -4,59 +4,51 @@ const Capabilities = () => {
 	return (
 		<div className="bg-black capabilities py-5 px-3 px-md-5 text-white">
 			<h2 className="text-light font-weight-bold text-bg mb-5">Capabilities</h2>
-			<div className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center flex-md-nowrap my-sm-3 my-lg-4">
-				
+			<div className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center flex-md-nowrap my-sm-3 my-lg-4 col-sm-11 col-lg-10 mx-auto">
 				<span className="bg-success d-sm-none"></span>
-				<p>User Research</p>
-				
+				<p className="one">User Research</p>
+
 				<span className="bg-warning"></span>
-				<p>UX Strategy & Design</p>
-				
+				<p className="two">UX Strategy & Design</p>
+
 				<span className="bg-info"></span>
-				<p>Competitor Analysis</p>
-				
+				<p className="three">Competitor Analysis</p>
 			</div>
-			<div className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center flex-md-nowrap my-sm-3 my-lg-4">
-				
+			<div className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center flex-md-nowrap my-sm-3 my-lg-4 col-sm-11 col-lg-10 mx-auto">
 				<span className="bg-warning d-sm-none"></span>
-				<p>Usability Testing</p>
-				
+				<p className="four">Usability Testing</p>
+
 				<span className="bg-info"></span>
-				<p>Visual Design</p>
-				
+				<p className="five">Visual Design</p>
+
 				<span className="bg-danger"></span>
-				<p>Service Design</p>
-				
+				<p className="six">Service Design</p>
+
 				<span className="bg-pry"></span>
-				<p>Branding</p>
-				
+				<p className="seven">Branding</p>
 			</div>
-			<div className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center flex-md-nowrap my-sm-3 my-lg-4">
-				
+			<div className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center flex-md-nowrap my-sm-3 my-lg-4 col-sm-11 col-lg-10 mx-auto">
 				<span className="bg-danger d-sm-none"></span>
-				<p>Motion Design</p>
-				
+				<p className="eight">Motion Design</p>
+
 				<span className="bg-warning"></span>
-				<p>Single Feature Revamp</p>
-				
+				<p className="nine">Single Feature Revamp</p>
+
 				<span className="bg-success"></span>
-				<p>Corporate Website</p>
-				
+				<p className="ten">Corporate Website</p>
 			</div>
-			<div className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center flex-md-nowrap my-sm-3 my-lg-4">
-				
+			<div className="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center flex-md-nowrap my-sm-3 my-lg-4 col-sm-11 col-lg-10 mx-auto">
 				<span className="bg-warning d-sm-none"></span>
-				<p>Graphics Design</p>
-				
+				<p className="eleven">Graphics Design</p>
+
 				<span className="bg-danger"></span>
-				<p>Content Strategy</p>
-				
+				<p className="twelve">Content Strategy</p>
+
 				<span className="bg-success"></span>
-				<p>Usability Audit</p>
-				
+				<p className="thirteen">Usability Audit</p>
+
 				<span className="bg-info"></span>
-				<p>Illustration</p>
-				
+				<p className="fourteen">Illustration</p>
 			</div>
 		</div>
 	);

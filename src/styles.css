@@ -162,7 +162,9 @@ a.text-pry {
   top: 0;
   justify-content: center;
   align-items: center;
-  display: none;
+  opacity: 0;
+  display: flex;
+  transition: all 300ms ease-in;
 }
 
 .work .cards .card:hover {
@@ -170,7 +172,7 @@ a.text-pry {
 }
 
 .work .cards .card:hover .overlay {
-  display: flex;
+  opacity: 1;
 }
 
 .work .cards .card-title {
@@ -380,7 +382,90 @@ a.text-pry {
     border-radius: 50%;
     left: -25px;
     top: 5px;
-    background: #ee236b;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.one::before {
+    background: #28a745;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.two::before {
+    background: #ffc107;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.three::before {
+    background: #17a2b8;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.four::before {
+    background: #ffc107;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.five::before {
+    background: #17a2b8;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.six::before {
+    background: #28a745;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.seven::before {
+    background: #17a2b8;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.eight::before {
+    background: #dc3545;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.nine::before {
+    background: #ffc107;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.ten::before {
+    background: #28a745;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.eleven::before {
+    background: #ffc107;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.twelve::before {
+    background: #dc3545;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.thirteen::before {
+    background: #28a745;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .capabilities p.fourteen::before {
+    background: #17a2b8;
   }
 }
 
